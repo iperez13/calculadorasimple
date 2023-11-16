@@ -33,3 +33,25 @@
     display: flexbox;
 
 }
+
+.botonClick {
+    width: 100px;
+    background-color: red;
+    height: 40px;
+    color: white;
+    box-shadow: 10px 5px 5px black;
+    border-radius: 10px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.verde{
+    width: 100px;
+    background-color: green;
+    height: 40px;
+    color: white;
+    box-shadow: 10px 5px 5px black;
+    border-radius: 10px;
+    margin: 20px;
+    font-weight: bold;    
+}
